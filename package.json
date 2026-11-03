@@ -29,7 +29,7 @@
     "@editorjs/image": "^2.10.3",
     "@editorjs/list": "^2.0.9",
     "@editorjs/quote": "^2.7.6",
-    "@intlify/unplugin-vue-i18n": "^11.2.4",
+    "@intlify/unplugin-vue-i18n": "^11.2.8",
     "@loaders.gl/3d-tiles": "^4.4.4",
     "@loaders.gl/core": "^4.4.4",
     "@loaders.gl/gis": "^4.5.2",
@@ -51,7 +51,7 @@
     "pmtiles": "^4.4.1",
     "terra-draw": "^0.0.1-alpha.53",
     "vue": "^3.5.17",
-    "vue-i18n": "^11.4.8",
+    "vue-i18n": "^11.4.18",
     "vue-router": "^4.6.4",
     "vuedraggable": "^4.1.0"
   },
